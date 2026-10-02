@@ -26,6 +26,26 @@ The application combines PDF text extraction, semantic search, transformer-based
 
 ---
 
+## 🖼️ Application Screenshots
+
+### SmartDoc AI Interface
+
+![SmartDoc AI Interface](assets/screenshots/smartdoc-home.png)
+
+### AI Document Summary
+
+![AI Document Summary](assets/screenshots/summary-result.png)
+
+### PDF Question Answering
+
+![PDF Question Answering](assets/screenshots/qa-answer.png)
+
+### Unsupported Question Detection
+
+![Unsupported Question Detection](assets/screenshots/unsupported-question.png)
+
+---
+
 ## 🎯 Project Objective
 
 Long PDF documents can require significant time to read and search manually.
